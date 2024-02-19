@@ -1,5 +1,4 @@
 import { loadExercises} from "./js/cargar-ejercicios.js";
-// import { loadTypes } from "./js/cargar-tipos.js";
 import { initializeProfileModal } from "./js/modal-editar-perfil.js";
 import './js/modal-nuevo-ejercicio.js'
 import './js/modal-ejercicio.js'
